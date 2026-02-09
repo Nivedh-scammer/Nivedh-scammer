@@ -30,3 +30,5 @@ My intrests/hobbies include :
 
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7p_wSqAaZ5ceKKlVTvd-1BEblCvdTrfXlYg&s)
+
+![alt text](cat.jpg)
